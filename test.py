@@ -2,6 +2,12 @@
 """
 Spyder Editor
 
+
+
+
+#TEST
+
+
 This is a temporary script file.
 """
 import pandas as pd 
@@ -24,5 +30,5 @@ plt.xlabel("Date")
 plt.ylabel("Values")
 plt.title("Sample Time Series Plot")
 pandas.plot()
-.to excel()
+
 
