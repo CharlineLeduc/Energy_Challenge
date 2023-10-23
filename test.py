@@ -5,8 +5,7 @@ Spyder Editor
 
 
 
-#COUCOU 
-
+#TEST
 
 
 This is a temporary script file.
@@ -31,5 +30,5 @@ plt.xlabel("Date")
 plt.ylabel("Values")
 plt.title("Sample Time Series Plot")
 pandas.plot()
-.to excel()
+
 
