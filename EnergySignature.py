@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #tau = transmissivité 
 #K= AU = constante 
 #Q_load = valeur totale de chauffage 
@@ -9,3 +10,7 @@ import numpy as np
 import pandas as pd 
 
 #overwrite test 
+=======
+import numpy as np
+import pandas as pd 
+>>>>>>> newbranch
